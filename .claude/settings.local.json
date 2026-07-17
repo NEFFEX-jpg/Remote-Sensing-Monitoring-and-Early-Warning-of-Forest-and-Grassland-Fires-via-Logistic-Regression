@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(\"D:\\\\python.exe\" generate_ppt.py)"
+    ]
+  }
+}
